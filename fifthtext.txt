@@ -1,1 +1,3 @@
-this text is for merging the two files
+
+this text is for merging the two files in both master and newbranch
+
