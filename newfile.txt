@@ -1,1 +1,1 @@
-pullfile1
+Another newfile  text in latestbranch
