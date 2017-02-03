@@ -1,1 +1,2 @@
-pullfile1
+merging newfile in master
+
