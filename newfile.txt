@@ -1,2 +1,1 @@
-merging newfile in master
-
+merging both newfile in master branch
