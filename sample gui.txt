@@ -1,1 +1,0 @@
-this file is to test for sample session in git gui
